@@ -45,11 +45,11 @@ Located in the bottom. Which is the new feature of android. Upcoming features wi
 # Download APK:-
 --------------
 
-https://github.com/dewaara/GizaQuiz/blob/master/app/release/app-release.apk
+https://github.com/dewaara/DewaaraApps/blob/master/screenshot/app-debug.apk
 
 # GizaQuiz_DEMO:-
 --------------- 
-[![GQ2019.gif](<blockquote class="imgur-embed-pub" lang="en" data-id="a/wBO2oWE" data-context="false" ><a href="//imgur.com/a/wBO2oWE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+[![DewaaraApps.gif](https://github.com/dewaara/DewaaraApps/blob/master/screenshot/DewaaraApps.gif)
 
 # Screenshots:-
 -------------
