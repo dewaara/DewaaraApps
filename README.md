@@ -41,6 +41,26 @@ Located in the bottom. Which is the new feature of android. Upcoming features wi
 -> androidTestImplementation 'com.android.support.test:runner:1.0.2'\
 -> androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'\
 
+========================================================================================
+-> Use this App as a Library dependency
+========================================================================================
+# build.gradle (Project:AppName) :-
+
+allprojects {
+	repositories {
+		maven { url 'https://jitpack.io' }
+		}
+	}
+---------------------------------------------------------------------------------------
+# build.gradle (Module: AppModuleName) :-
+	dependencies {
+	        implementation 'com.github.dewaara:DewaaraApps:Tag'
+				OR
+		implementation 'com.github.dewaara:DewaaraApps:1.2'
+	}
+
+---------------------------------------------------------------------------------------
+
 
 # Download APK:-
 --------------
